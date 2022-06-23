@@ -1,16 +1,4 @@
 # CRUD_OPERATION
-<!--
-A simple java spring boot crud api.
->this for test [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/UserController.java)
->>this for test [Dao->UserDao](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/dao/UserDao.java)
->this for test [Dto->UserDto](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/dto/UserDto.java)
->>this for test [Dto->UpdateUserDto](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/dto/UpdateUserDto.java)
-> this for test [Enums->UserStatus](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/enums/UserStatus.java)
->>this for test [Model->User.Java](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/model/User.java)
->this for test [Model->Response.Java](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/model/Response.java)
->>this for test [Service->UserService](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/service/UserService.java)
->this for test [ServiceImpl](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/serviceImpl/UserServiceImpl.java)
--->
 
 ## Screenshots
 
@@ -19,20 +7,12 @@ A simple java spring boot crud api.
 
 #### UserDetails Database
 ![Complete User Database](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Crud%20DB.png)
-#### Request and Response For Add User 
-Api of Request [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Request.png)\
-Implemented Request [ServiceImpl](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/serviceImpl/UserServiceImpl.java)
-![Add User Response](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Response.png)
-#### Request 
-Api of Request [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/UserController.java#L42)\
-Implemented Request [ServiceImpl](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/serviceImpl/UserServiceImpl.java#L59)
-![Get User by Id Request](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Get%20one%20User.png)
-
 
 #### Request and Response For Add User 
 Api of Add User Request [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/UserController.java#L30)\
 Implemented Request of Add User [ServiceImpl](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/serviceImpl/UserServiceImpl.java#L27)\
-![Add User Response](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Response.png)
+![Add User Request](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20Request.png)
+![Add User Database](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/AddUser%20Db.png)
 
 #### Request and Response for Get User By Id 
 Api of Request Get User By Id [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/UserController.java#L42)\
