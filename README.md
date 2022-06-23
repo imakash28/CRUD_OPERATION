@@ -14,9 +14,9 @@ A simple java spring boot crud api.
 
 ## Screenshots
 
-![SWAGGER] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Swagger.png)
-![Complete User Database] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Crud%20DB.png)
-![Add UserRequest] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Request.png)
+![SWAGGER] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Swagger.png)/
+![Complete User Database] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Crud%20DB.png)/
+![Add UserRequest] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Request.png)/
 ![Add User Response] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Response.png)
 ![Get User by Id Request] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Get%20one%20User.png)
 ![Get User by Id Response] (https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Get%20one%20user%20Response.png)
