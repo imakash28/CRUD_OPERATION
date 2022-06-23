@@ -19,6 +19,15 @@ A simple java spring boot crud api.
 
 #### UserDetails Database
 ![Complete User Database](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Crud%20DB.png)
+#### Request and Response For Add User 
+Api of Request [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Request.png)\
+Implemented Request [ServiceImpl](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/serviceImpl/UserServiceImpl.java)
+![Add User Response](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Add%20user%20DB%20Response.png)
+#### Request 
+Api of Request [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/UserController.java#L42)\
+Implemented Request [ServiceImpl](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/serviceImpl/UserServiceImpl.java#L59)
+![Get User by Id Request](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/Get%20one%20User.png)
+
 
 #### Request and Response For Add User 
 Api of Add User Request [Controller](https://github.com/imakash28/CRUD_OPERATION/blob/main/user/user/src/main/java/com/example/user/controller/UserController.java#L30)\
